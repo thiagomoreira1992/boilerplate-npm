@@ -3,6 +3,7 @@
 	"author": "Thiago Moreira",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "API", "back end", "nodejs"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,5 +14,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	}	
 }
